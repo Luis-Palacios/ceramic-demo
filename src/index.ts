@@ -5,7 +5,6 @@ console.log('hello, world');
 import CeramicClient from '@ceramicnetwork/http-client'
 import { ThreeIdConnect, EthereumAuthProvider } from '3id-connect'
 
-// const CERAMIC_URL = 'https://dev-ceramic-node.paidnetwork.com'; // TODO: set as env variable
 const CERAMIC_URL = 'https://localhost:7007';
 // const CERAMIC_URL = 'https://ceramic-clay.3boxlabs.com'
 
